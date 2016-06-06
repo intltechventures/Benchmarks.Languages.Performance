@@ -18,5 +18,9 @@ References
 * https://en.wikibooks.org/wiki/Some_Basic_and_Inefficient_Prime_Number_Generating_Algorithms 
 * https://en.wikipedia.org/wiki/Fermat_number
 
+Userful Resouces
+* http://www.boost.org/doc/libs/1_61_0/libs/multiprecision/doc/html/boost_multiprecision/tut/primetest.html
+
+
 Prime Number News Stories
 * [2016-03-13 Quanta Magazine, Mathematicians Discover Prime Conspiracy](https://www.quantamagazine.org/20160313-mathematicians-discover-prime-conspiracy)
