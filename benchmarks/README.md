@@ -49,3 +49,7 @@ The intent is to use a set of computationally intensive algorithms to compare Ru
 	* Use a shell script to sequentially kick-off each test suite, with a call to some monitoring agent tooling to start/stop the monitoring - and output the results to a secondary data collection file (e.g. pb-001.java.system.json)?
 	* Others?
 		* https://en.wikipedia.org/wiki/List_of_performance_analysis_tools
+
+
+Other Performance Benchmark Resources
+* https://github.com/GoogleCloudPlatform/PerfKitBenchmarker
