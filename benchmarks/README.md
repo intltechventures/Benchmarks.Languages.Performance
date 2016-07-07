@@ -53,3 +53,4 @@ The intent is to use a set of computationally intensive algorithms to compare Ru
 
 Other Performance Benchmark Resources
 * https://github.com/GoogleCloudPlatform/PerfKitBenchmarker
+* https://kev.inburke.com/kevin/real-life-go-benchmarking
