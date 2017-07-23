@@ -23,7 +23,10 @@ Userful Resouces
 
 
 Prime Number News Stories
-* [2016-03-13 Quanta Magazine, Mathematicians Discover Prime Conspiracy](https://www.quantamagazine.org/20160313-mathematicians-discover-prime-conspiracy)
-* http://www.scientificamerican.com/article/new-take-on-an-ancient-method-improves-way-to-find-prime-numbers/
+* 2017
+  * https://www.quantamagazine.org/kaisa-matomaki-dreams-of-primes-20170720/
+* 2016
+  * [2016-03-13 Quanta Magazine, Mathematicians Discover Prime Conspiracy](https://www.quantamagazine.org/20160313-mathematicians-discover-prime-conspiracy)
+  * http://www.scientificamerican.com/article/new-take-on-an-ancient-method-improves-way-to-find-prime-numbers/
 
 
