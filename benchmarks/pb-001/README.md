@@ -23,6 +23,8 @@ Userful Resouces
 
 
 Prime Number News Stories
+* 2018 
+  * https://motherboard.vice.com/en_us/article/pa8dw8/prime-number-pattern-mimics-crystal-patterns
 * 2017
   * https://www.quantamagazine.org/kaisa-matomaki-dreams-of-primes-20170720/
 * 2016
