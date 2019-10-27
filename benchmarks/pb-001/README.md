@@ -1,7 +1,7 @@
-Performance Benchmark Test Scenario
-pb-001: Prime Number Generator
 
-Prime Number Generator Algorithm References
+# Performance Benchmark Test Scenario: pb-001: Prime Number Generator
+
+## Prime Number Generator Algorithm References
 * https://en.wikipedia.org/wiki/Generating_primes
 * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 	* https://rosettacode.org/wiki/Sieve_of_Eratosthenes
@@ -9,7 +9,7 @@ Prime Number Generator Algorithm References
 * https://en.wikipedia.org/wiki/Sieve_of_Atkin
 
 
-References
+## References
 * http://primesieve.org/
 * https://primes.utm.edu/
 * https://primes.utm.edu/nthprime/algorithm.php
@@ -18,11 +18,11 @@ References
 * https://en.wikibooks.org/wiki/Some_Basic_and_Inefficient_Prime_Number_Generating_Algorithms 
 * https://en.wikipedia.org/wiki/Fermat_number
 
-Userful Resouces
+## Useful Resources
 * http://www.boost.org/doc/libs/1_61_0/libs/multiprecision/doc/html/boost_multiprecision/tut/primetest.html
 
 
-Prime Number News Stories
+## Prime Number News Stories
 * 2018 
   * https://motherboard.vice.com/en_us/article/pa8dw8/prime-number-pattern-mimics-crystal-patterns
 * 2017
@@ -30,5 +30,9 @@ Prime Number News Stories
 * 2016
   * [2016-03-13 Quanta Magazine, Mathematicians Discover Prime Conspiracy](https://www.quantamagazine.org/20160313-mathematicians-discover-prime-conspiracy)
   * http://www.scientificamerican.com/article/new-take-on-an-ancient-method-improves-way-to-find-prime-numbers/
+
+
+## Prime Nuumber YouTube Videos
+- [Why do prime numbers make these spirals?](https://www.youtube.com/watch?v=EK32jo7i5LQ)
 
 
